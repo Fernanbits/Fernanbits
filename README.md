@@ -7,10 +7,9 @@
  -  🤟 Así como el chocolate, la música, Cortázar, y mi hijo; creo que el Desarrollo de Software es un camino de ida… 
  -  💕¡A por todo!
  
-                              ________________________________
+                              ##############
                               
                               
-
  -  😄 My name is Jimena Fernández, I live in Las Flores, Province of Buenos Aires, Argentina. 
  -  🔭 I am a student of the Software Development Technician (2nd year).
  -  💻 I am currently working in the Municipal Education Secretariat, in the Punto Digital Program, in which I hold the position of Coordinator and trainer.
